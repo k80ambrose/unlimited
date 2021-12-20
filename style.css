@@ -1,3 +1,7 @@
+html {
+  cursor: crosshair;
+}
+
 body {
   font-family: Arial, Helvetica, sans-serif;
   background-color: #FF1940;
