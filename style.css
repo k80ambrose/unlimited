@@ -1,5 +1,5 @@
 html {
-  cursor: ew-resize;
+  cursor: default;
 }
 
 body {
@@ -17,7 +17,8 @@ p {
   text-decoration: none;
   font-style: normal;
   font-variant: normal;
-  margin-left: 6em;
+  margin-left: 7em;
+  cursor :w-resize;
 }
   
 h1 {
