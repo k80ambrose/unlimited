@@ -5,6 +5,7 @@ html {
 body {
   font-family: Helvetica, sans-serif;
   background-color: #FF1940;
+  left-margin: 10px;
   }
 
 p {
