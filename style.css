@@ -5,20 +5,18 @@ html {
 body {
   font-family: Helvetica, sans-serif;
   background-color: #FF1940;
-  }
+}
 
 p {
   font-family: Helvetica, sans-serif;
   font-size: 25px;
   letter-spacing: 0.3px;
   word-spacing: -1.5px;
-  color: #000000;
+  color: black;
   font-weight: 450;
   text-decoration: none;
   font-style: normal;
   font-variant: normal;
-  text-transform: none;
-  margin-left: 25px;
 }
   
 h1 {
@@ -26,10 +24,9 @@ h1 {
   font-size: 50px;
   letter-spacing: 0.8px;
   word-spacing: 5px;
-  color: #000000;
-  font-weight: 400;
+  color: black;
+  font-weight: 450;
   text-decoration: none;
   font-style: normal;
   font-variant: normal;
-  text-transform: none;
 }
